@@ -8,4 +8,7 @@ I'm particularly excited about modular fabrication, sustainable design, and maki
 
 ## Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Unbundling AECO Tech](https://jasonandersen.xyz/blog/unbundling-aeco-technology)
+- [Web Stack Eats AECO](https://jasonandersen.xyz/blog/web-stack-in-aeco)
+- [Converting Raw Scans to Actionable BIM](https://jasonandersen.xyz/blog/point-cloud-technology)
 <!-- BLOG-POST-LIST:END -->
