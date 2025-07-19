@@ -4,7 +4,7 @@ I'm passionate about using technology to transform how we design and build, crea
 I'm particularly excited about modular fabrication, sustainable design, and making construction more fun and environmentally responsible through technology.
 
 ## GitHub Stats
-![Your GitHub stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&theme=dark)
+![Your GitHub stats](https://github-readme-stats.vercel.app/api?jrandersen&show_icons=true&theme=dark)
 <!--
 **jrandersen/jrandersen** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
