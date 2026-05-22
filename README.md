@@ -8,7 +8,7 @@ I'm particularly excited about modular fabrication, sustainable design, and maki
 
 ### Latest Blog Posts
 <!-- BLOG-POST-LIST:START -->
+- [Multi-pass scraping pipeline](https://jasonandersen.xyz/blog/multipass-scraping-pipeline)
 - [Trailcam Computer Vision](https://jasonandersen.xyz/blog/trailcam-computervision)
 - [Unbundling AECO Tech](https://jasonandersen.xyz/blog/unbundling-aeco-technology)
-- [Web Stack Eats AECO](https://jasonandersen.xyz/blog/web-stack-in-aeco)
 <!-- BLOG-POST-LIST:END -->
